@@ -9,6 +9,11 @@ Swipe to learn. Listen to remember. Sleep to reinforce.
 
 **[Try it live → flashcards.lalalingo.app](https://flashcards.lalalingo.app/)**
 
+
+<img src="asset/Lalalingo-Flashcards-Website.gif" alt="Lalalingo Flashcards demo" width="720">
+
+
+
 <p>
   <a href="https://flashcards.lalalingo.app/"><img alt="Live demo" src="https://img.shields.io/badge/live%20demo-flashcards.lalalingo.app-2ecc71?style=flat-square"></a>
   <img alt="Open source" src="https://img.shields.io/badge/open%20source-yes-27ae60?style=flat-square">
